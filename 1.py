@@ -1,7 +1,0 @@
-print("hello world")
-print("this is raju")
-print("i am doing data science")
-print("this is ducat")
-print("this is ram")
-print("hello worrld")
-print("apple")
